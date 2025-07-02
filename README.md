@@ -12,7 +12,7 @@ A python script to validating data files, data format and calculate student grad
 * Clone the repository (make sure python is installed).
 * Open the data folder and the Exam_grade.py together
 ```bash
-python Exam_grade.py
+python Exam_grade.py```
 
 **Requirements**
 * Python
