@@ -10,8 +10,7 @@ A python script to validating data files, data format and calculate student grad
 
 **How to run the application**
 * Clone the repository (make sure python is installed).
-* Open the data folder and the Exam_grade.py together. 
-<br>Ex: Clone the repo and run
+* Open the data folder and the Exam_grade.py together.<br>Ex: Clone the repo and run
 <pre>
 python Exam_grade.py</pre>
 
