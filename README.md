@@ -1,4 +1,4 @@
-# Student score processor
+# Student exam grade analysis
 
 A python script to validating data files, data format and calculate student grade exam for thousands of student. The goal is to build a application that replace mannual grading, reduce grading and reporting time
 
