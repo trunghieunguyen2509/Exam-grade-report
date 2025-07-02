@@ -11,8 +11,7 @@ A python script to validating data files, data format and calculate student grad
 **How to run the application**
 * Clone the repository (make sure python is installed).
 * Open the data folder and the Exam_grade.py together
-```bash
-python Exam_grade.py```
+<pre> ```bash python Exam_grade.py ``` </pre>
 
 **Requirements**
 * Python
